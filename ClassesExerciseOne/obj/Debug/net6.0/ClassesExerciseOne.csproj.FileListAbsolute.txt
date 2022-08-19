@@ -1,0 +1,15 @@
+/Users/luisangelmeneses/Desktop/repos/ClassesExerciseOne/ClassesExerciseOne/obj/Debug/net6.0/ClassesExerciseOne.csproj.AssemblyReference.cache
+/Users/luisangelmeneses/Desktop/repos/ClassesExerciseOne/ClassesExerciseOne/obj/Debug/net6.0/ClassesExerciseOne.GeneratedMSBuildEditorConfig.editorconfig
+/Users/luisangelmeneses/Desktop/repos/ClassesExerciseOne/ClassesExerciseOne/obj/Debug/net6.0/ClassesExerciseOne.AssemblyInfoInputs.cache
+/Users/luisangelmeneses/Desktop/repos/ClassesExerciseOne/ClassesExerciseOne/obj/Debug/net6.0/ClassesExerciseOne.AssemblyInfo.cs
+/Users/luisangelmeneses/Desktop/repos/ClassesExerciseOne/ClassesExerciseOne/obj/Debug/net6.0/ClassesExerciseOne.csproj.CoreCompileInputs.cache
+/Users/luisangelmeneses/Desktop/repos/ClassesExerciseOne/ClassesExerciseOne/bin/Debug/net6.0/ClassesExerciseOne
+/Users/luisangelmeneses/Desktop/repos/ClassesExerciseOne/ClassesExerciseOne/bin/Debug/net6.0/ClassesExerciseOne.deps.json
+/Users/luisangelmeneses/Desktop/repos/ClassesExerciseOne/ClassesExerciseOne/bin/Debug/net6.0/ClassesExerciseOne.runtimeconfig.json
+/Users/luisangelmeneses/Desktop/repos/ClassesExerciseOne/ClassesExerciseOne/bin/Debug/net6.0/ClassesExerciseOne.dll
+/Users/luisangelmeneses/Desktop/repos/ClassesExerciseOne/ClassesExerciseOne/bin/Debug/net6.0/ClassesExerciseOne.pdb
+/Users/luisangelmeneses/Desktop/repos/ClassesExerciseOne/ClassesExerciseOne/obj/Debug/net6.0/ClassesExerciseOne.dll
+/Users/luisangelmeneses/Desktop/repos/ClassesExerciseOne/ClassesExerciseOne/obj/Debug/net6.0/refint/ClassesExerciseOne.dll
+/Users/luisangelmeneses/Desktop/repos/ClassesExerciseOne/ClassesExerciseOne/obj/Debug/net6.0/ClassesExerciseOne.pdb
+/Users/luisangelmeneses/Desktop/repos/ClassesExerciseOne/ClassesExerciseOne/obj/Debug/net6.0/ClassesExerciseOne.genruntimeconfig.cache
+/Users/luisangelmeneses/Desktop/repos/ClassesExerciseOne/ClassesExerciseOne/obj/Debug/net6.0/ref/ClassesExerciseOne.dll
